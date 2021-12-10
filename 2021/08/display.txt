@@ -1,0 +1,23 @@
+ dddd
+e    a
+e    a
+ ffff
+g    b
+g    b
+ cccc
+
+ aaaa  
+b    c
+b    c
+ dddd 
+e    f
+e    f
+ gggg
+
+a = d
+b = e
+c = a
+d = f
+e = g
+f = b
+g = c
