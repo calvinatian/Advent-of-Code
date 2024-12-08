@@ -21,6 +21,8 @@ def recur(grid, r, c, seen):
 def p1(text):
     print(text)
     ans = 0
+    for line in text:
+        line = line.strip()
 
     return ans
 
