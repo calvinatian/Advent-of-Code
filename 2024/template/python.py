@@ -19,7 +19,7 @@ def recur(grid, r, c, seen):
 
 
 def p1(text):
-    print(text)
+    # print(text)
     ans = 0
     for line in text:
         line = line.strip()
@@ -28,7 +28,7 @@ def p1(text):
 
 
 def p2(text):
-    print(text)
+    # print(text)
     ans = 0
 
     return ans
